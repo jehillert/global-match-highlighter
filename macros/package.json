@@ -1,0 +1,19 @@
+{
+  "name": "global-match-highlighter",
+  "version": "1.0.0",
+  "description": "Visual search tool for finding concept and text patterns in large documents.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "global-match-highlighter"
+  },
+  "keywords": [
+    "highlighter",
+    "search"
+  ],
+  "author": "John Hillert",
+  "license": "UNLICENSED"
+}
